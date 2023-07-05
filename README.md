@@ -6,10 +6,10 @@ Once you are able to download the KML file go to the DESKTOP version of Google E
 
 # Whats Finished?
 
-Listed Below are the places that are finished on the map.
-Borough of Shiloh
-City of Bridgeton
-CDP of Fairton
+Currently the
+Borough of Shiloh,
+City of Bridgeton,
+CDP of Fairton, and
 Township of Fairfield
 
 # License
