@@ -4,26 +4,6 @@ This is a detailed road map I am currently working on of Cumberland County New J
 # How to Use my County Map
 Once you are able to download the KML file go to the DESKTOP version of Google Earth (Atleast 2gbs of Ram is Recommended) On the left hand side of the screen you will see the menu bar. You are going to click the projects button and then that will open of the projects viewer. Select the new project button and click the Import KML file from computer button. Select the KML file given by me. Once selected you should be able to view your downloaded version of the Cumberland County map.
 
-Your version 0.9.20.3 Newest as of 7/5/23
-
-Listed Below is what has been added with version 0.9.20.3
-
-# Millville 
-District 6 (See Districts Folder)
--Added 1 New County Road
-(CCR 714) Morias Ave
-
-# Upper Deerfield Township
--Added 2 New County Roads
-  (CCR 552) Irving Ave
-  (CCR 654) Lebanon Rd
--Added 4 New Other Roads
-  Fern Rd *Ext*
-  Liberty Rd *Ext*
-  Victory Rd *Ext*
-  Victory Ct *Ext*
-*Ext* When this is placed next to a road it will mean that the road exstended from one township or a place to another and was continued when that new place was added.
-
 # Whats Finished?
 
 Listed Below are the places that are finished on the map.
