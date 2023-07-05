@@ -1,6 +1,9 @@
 # Cumberland-County-NJ-KML-Map
 This is a detailed road map I am currently working on of Cumberland County New Jersey and hope to be able to sometime do all 21 counties in New Jersey, but I am still working on just this one.
 
+# How to Use my County Map
+Once you are able to download the KML file go to the DESKTOP version of Google Earth (Atleast 2gbs of Ram is Recommended) On the left hand side of the screen you will see the menu bar. You are going to click the projects button and then that will open of the projects viewer. Select the new project button and click the Import KML file from computer button. Select the KML file given by me. Once selected you should be able to view your downloaded version of the Cumberland County map.
+
 Your version 0.9.20.3 Newest as of 7/5/23
 
 Listed Below is what has been added with version 0.9.20.3
